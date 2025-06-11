@@ -25,9 +25,6 @@ For this assessment, I chose to create a functional **business website** for a r
 
 The client is a small business owner seeking an affordable, easy-to-maintain web solution to promote their product offerings online. The solution helps the client digitally showcase products, collect orders, and connect with customers more efficiently.
 
-## 🧱 File Structure
-
-
 ## 🧪 Technologies Used
 
 - **HTML5** – for structuring content
